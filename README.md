@@ -12,4 +12,7 @@
 - React
 - HTML/CSS
 - SQL
-
+- API(Fast, Rest)
+- Flask
+- Postgres
+  
